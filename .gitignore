@@ -6,6 +6,7 @@
 .DS_Store
 
 # Derlemeyle alakalı dosyalar
+/app/build
 /build
 /captures/
 .externalNativeBuild
