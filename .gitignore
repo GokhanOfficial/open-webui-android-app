@@ -1,0 +1,22 @@
+# Android Studio ve Gradle için önerilen .gitignore
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+
+# Derlemeyle alakalı dosyalar
+/build
+/captures/
+.externalNativeBuild
+
+# Üçüncü taraf bağımlılık dosyaları
+*.jar
+*.aar
+*.apk
+
+# Sistem tarafından oluşturulmuş dosyalar
+*.log
+*.lock
+*.tmp
+*.temp
